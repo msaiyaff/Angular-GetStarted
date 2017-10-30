@@ -1,1 +1,1 @@
-# AngularJS2-GetStarted
+# Angular-GetStarted-HeroApp
